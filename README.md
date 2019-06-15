@@ -2,12 +2,13 @@
 
 A hobby project on implementing copy-move-forgery detection papers. The work is on going.
 
-# Language used:
+# Language used
 Python
-# Papers:
-Model 1:
+# Papers
+## Model 1
 Yang, Pei & Yang, Gaobo & Zhang, Dengyong. (2016). Rotation Invariant Local Binary Pattern for Blind Detection of Copy-Move Forgery with Affine Transform. 404-416. 10.1007/978-3-319-48674-1_36. 
-Model 2: 
+
+## Model 2
 Ewerton Silva, Tiago Carvalho, Anselmo Ferreira, Anderson Rocha,
 Going deeper into copy-move forgery detection: Exploring image telltales via multi-scale analysis and voting processes,
 Journal of Visual Communication and Image Representation,
